@@ -4,4 +4,4 @@ Llevo un tiempo desarrollando proyectos en Next.js y siempre me pasaba lo mismo,
 
 Así que decidí tomarme el tiempo de crear este simple pero útil script que me permite crear una aplicación Next.js en JavaScript o TypeScript, con CSS o Tailwind. Y una vez creada, ordena, borra y reescribe los archivos por mí, ahorrándome un par de minutos a la hora de crear una nueva aplicación.
 
-<iframe src="https://www.youtube.com/watch?v=GLCCBqlCoXE&ab_channel=GoorezyDev"></iframe>
+[![YouTube Thumbnail](https://i.imgur.com/GHxvSNm.png)](https://www.youtube.com/watch?v=GLCCBqlCoXE&ab_channel=GoorezyDev)
