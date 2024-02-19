@@ -1,6 +1,7 @@
-# A script to facilitate the creation of an application in Next.js
+# Script para automatizar la creación de aplicaciones Next.js
 
-I have been developing projects in Next.js for a while, and the same thing always happened to me, after using `npx create-next-app@latest` I had to start deleting files, creating others, deleting the default code and so on.
+Llevo un tiempo desarrollando proyectos en Next.js y siempre me pasaba lo mismo, después de usar `npx create-next-app@latest` tenía que empezar a borrar archivos, crear otros, borrar el código por defecto y demás.
 
-So, I decided to take the time to create this simple but useful script that allows me to create a Next.js application in JavaScript or TypeScript, with CSS or Tailwind.
-And once created, it sorts, deletes and rewrites the files for me, saving me a couple of minutes when creating a new application.
+Así que decidí tomarme el tiempo de crear este simple pero útil script que me permite crear una aplicación Next.js en JavaScript o TypeScript, con CSS o Tailwind. Y una vez creada, ordena, borra y reescribe los archivos por mí, ahorrándome un par de minutos a la hora de crear una nueva aplicación.
+
+<iframe src="https://www.youtube.com/watch?v=GLCCBqlCoXE&ab_channel=GoorezyDev"></iframe>
